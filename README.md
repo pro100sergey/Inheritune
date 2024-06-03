@@ -1,6 +1,8 @@
 # Inheritune
 
-![generated_image_7966e7e221a111ef857d9685cc230705 (1)](https://github.com/pro100sergey/Inheritune/assets/36481860/13390886-be59-439d-baf4-f9e65bbf9243)
+<p align="center" width="50%">
+      <img src="generated_image_7966e7e221a111ef857d9685cc230705 (1)" style="width: 50%; min-width: 100px; display: block; margin: auto;">
+</p>
 
 Проект для сравнения дистиляции и метода inheritune из статьи: https://arxiv.org/pdf/2404.08634
 
